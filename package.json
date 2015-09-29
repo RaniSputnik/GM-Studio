@@ -1,0 +1,31 @@
+{
+  "name": "gm-studio",
+  "version": "0.0.1",
+  "description": "A node library for loading and modifying GameMaker : Studio projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaniSputnik/GM-Studio.git"
+  },
+  "keywords": [
+    "GameMaker",
+    "GML"
+  ],
+  "author": "RaniSputnik",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/RaniSputnik/GM-Studio/issues"
+  },
+  "homepage": "https://github.com/RaniSputnik/GM-Studio#readme",
+  "devDependencies": {
+    "mocha": "^2.3.3",
+    "should": "^7.1.0"
+  },
+  "dependencies": {
+    "q": "^1.4.1",
+    "xml2js": "^0.4.12"
+  }
+}
