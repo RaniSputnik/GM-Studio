@@ -55,8 +55,6 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 > For more information, please refer to <http://unlicense.org>
 
---------
-
 I am not affiliated in any way with [YoyoGames](http://www.yoyogames.com/).
 
 Find me on the [GameMaker Community](http://gmc.yoyogames.com/), [@RaniSputnik](http://gmc.yoyogames.com/index.php?showuser=133979).
