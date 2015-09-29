@@ -2,13 +2,13 @@
 
 A node.js library for loading and modifying [GameMaker : Studio](http://www.yoyogames.com/studio) projects, planning to expand with command line support. Key focus is for another project I am planning, GMLDoc.
 
-## Installation
+#### Installation
 
 ```
 npm install gm-studio
 ```
 
-## Usage
+#### Usage
 
 ```
 var studio = require("gm-studio");
